@@ -18,6 +18,7 @@ for(int i=0;i<4;i++)
     {
         cout << i <<" "<<i+1;
     }
+    else{ return false };
 }
 return 0;
 }
