@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1738818275 source:e:\c++\all-about-cpp\chess_board_task1\main.cpp
+	<bits/stdc++.h>
+
+1737875743 source:e:\c++\all-about-cpp\chess_board_task1\board_code.cpp
+	<bits/stdc++.h>
+
+1738817430 source:e:\c++\all-about-cpp\chess_board_task1\board2.cpp
+	<bits/stdc++.h>
+
